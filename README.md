@@ -3,6 +3,9 @@
 🙉 olá,meu nome é **Marco Franco🐵**
 
 
-- :+1:Meu e-mail de contado de estudante é **marco.franco@escola.pr.gov.br**
+- :+1:Meu e-mail de contato de estudante é **marco.franco@escola.pr.gov.br**
 
-- :+1:Meu e-mail de contado empresarial é **moneymonkey564@gmail.com**
+- :+1:Meu e-mail de contato empresarial é **moneymonkey564@gmail.com**
+  
+- :+1:Meu e-mail de contato empresarial é **marcoaf719@gmail.com**
+ 
