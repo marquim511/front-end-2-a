@@ -1,0 +1,25 @@
+header{
+    background-color: rgb(97, 205, 255);
+    padding: 20px;
+
+}
+#logo{
+    border-radius: 10px;
+
+}
+
+.titulo-principal{
+    position: absolute;
+    top: 13%;
+    left: 30%;
+    transform: translate(-10%,-50%);
+    font-size: 47px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+main{
+    width: 1000px;
+    margin: auto;
+
+
+}
